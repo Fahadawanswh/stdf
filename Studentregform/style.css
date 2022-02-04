@@ -1,0 +1,71 @@
+* {
+    padding: 0px;
+    margin: 10pxpx;
+  }
+body{
+    background-image:url("vu.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+    
+}
+.heading{
+    margin-top: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+  }
+  .name{
+      margin-top: 50px;
+      margin-left: 30px;
+      font-weight: bolder;
+      font-size: 20px;
+  }
+  .fathername{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .emailnum{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .address{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .datebirth{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .gender{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .departement{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .program{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .session{
+    margin-left: 30px;
+    font-size: 20px; 
+    font-weight: bolder;   
+  }
+  .radio {
+    display: flex;
+  }
+  .emailnum input{
+    width: 204px;
+    
+  }
